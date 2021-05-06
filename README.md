@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'am Amir Ghasemian you can call me Quf .I'm Junior Backend Developer and CE Student. 
+- 📫 How to reach me: amir.ghasemian.ag@gmail.com
+- 💬 Ask me about any topic but mainly ask me about Python ,Django .
+
 <!--
 **amirQuf/amirQuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
