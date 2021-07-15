@@ -1,74 +1,92 @@
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
+<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+</p>
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1376-blue)
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-blue)
+### 🤵 About Me:
+- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I use daily ```.java```,``` .py```, ```.sql```
+- 🌱 I’m currently learning docker and kubernetes
+- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
+- 😄 Pronouns: He/Him
+- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
+- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
+- ⚡ Fun fact: Je connais un peu le français
 
-**🐱 Mes données GitHub** 
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+</p>
 
-> 🏆 500 contributions en 2020
- > 
-> 📦 0 Bytes utilisés dans le stockage de GitHub 
- > 
-> 💼 A choisi d'embaucher
- > 
-> 📜 27 référentiels publics
- > 
-> 🔑 0 référentiel privé 
- > 
+---
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
 **I'm a Night 🦉** 
+
 ```text
-🌞 Matin      70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
-🌆 Jour       147 commits    ████████░░░░░░░░░░░░░░░░░   32.17% 
-🌃 crépuscule 129 commits    ███████░░░░░░░░░░░░░░░░░░   28.23% 
-🌙 Nuit       111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29%
+🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+
 ```
-📅 **Je suis le plus productif dimanche** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Lundi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Mardi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Mercredi     51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-Jeudi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Vendredi     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-samedi       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-dimanche     103 commits    █████░░░░░░░░░░░░░░░░░░░░   22.54%
-```
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
 
-
-📊 **Cette semaine, je passe mon temps** 
-
-```text
-⌚︎ fuseau horaire: Asia/Kolkata
-💬 Langages de programmation: 
-JavaScript               8 hrs 10 mins       ██████████████░░░░░░░░░░░   56.72% 
-Dart                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-Java                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
-🔥 Éditeurs de code: 
-WebStorm                 9 hrs 13 mins       ████████████████░░░░░░░░░   64.07% 
-Android Studio           5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.88% 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
-🐱‍💻 projets: 
-airline-module           6 hrs 51 mins       ████████████░░░░░░░░░░░░░   47.59% 
-invoice_app              2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-E-Invoice Verify         1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
-cable_socket             1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-invoice_app_1            1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.39%
-💻 système opérateur: 
-Windows                  14 hrs 24 mins      █████████████████████████   100.0%
-```
-
-**Je code principalement dans Vue** 
-
-```text
-Vue                      8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Java                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 ```
 
 
 
 <!--END_SECTION:waka-->
+
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
+
+---
+
+### 📕 My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
+- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
+- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
+- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
+- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+<!-- BLOG-POST-LIST:END -->
+---
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+----
+Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
+
+Last Edited on: 26/11/2020ka-->
