@@ -6,7 +6,8 @@
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-##GitHub status:
+### GitHub status:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤵 About Me:
