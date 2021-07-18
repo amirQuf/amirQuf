@@ -9,9 +9,8 @@
 - ⚡ Fun fact: I am Brogramer(Backend Programer) or bro programmer I don't know.
 
 ### GitHub status:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&?theme=Gradient )](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
+![
 <p align="center">
   <a href="https://twitter.com/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
