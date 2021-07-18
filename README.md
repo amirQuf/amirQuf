@@ -9,6 +9,8 @@
 ### GitHub status:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirQuf)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤵 About Me:
