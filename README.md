@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </p> 
+mystat:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
