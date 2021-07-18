@@ -35,7 +35,7 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </p> 
 mystat:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&count_private=true)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
