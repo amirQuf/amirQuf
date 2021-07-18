@@ -6,11 +6,11 @@
 ### 🤵 About Me:
 - 🏦 I'm currently working for nowhere :)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
+
 - 🌱 I’m currently learning channels and Celery
 - 💬 Talk to me about Backend, python, and whatever you like
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Brogramer(Backend Programer) or bro programmer I don't know.
+- ⚡ Fun fact:just run wizard
 
 ### :octocat: GitHub status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
