@@ -13,9 +13,6 @@
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirQuf)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
 
 <p align="center">
   <a href="https://twitter.com/iolardemartini" target="_blank">
