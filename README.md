@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am Brogramer(Backend Programer) or bro programmer I don't know.
 
 ### GitHub status:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&?theme=dark )](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://twitter.com/iolardemartini" target="_blank">
