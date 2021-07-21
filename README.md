@@ -37,8 +37,11 @@
      <a href="https://twitter.com/callmequf" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Twitter"/>
   </a>
+    <a href="https://twitter.com/callmequf" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Twitter"/>
+  </a>
      <a href="https://twitter.com/callmequf" target="_blank">
-    <img src=" https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Twitter"/>
   </a>
 </p>
 ### Contact:
