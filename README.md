@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Twitter"/>
   </a>
 </p>
+### activity github graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amirQuf&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
