@@ -14,8 +14,24 @@
 ### :octocat: GitHub status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+### SKills:
+<p align="center">
+  <a href="https://twitter.com/callmequf" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://twitter.com/callmequf" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Twitter"/>
+  </a>
+  <a href="https://twitter.com/callmequf" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://twitter.com/callmequf" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Twitter"/>
+  </a>
+    <a href="https://twitter.com/callmequf" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Twitter"/>
+  </a>  
+</p>
 ### Contact:
 <p align="center">
   <a href="https://twitter.com/callmequf" target="_blank">
