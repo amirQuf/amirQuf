@@ -43,6 +43,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amirQuf&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
 ### :octocat: GitHub status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
 ### How to Reach me:
