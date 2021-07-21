@@ -14,7 +14,7 @@
 ### :octocat: GitHub status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
 
-### SKills:
+### Skills:
 <p align="center">
   <a href="https://twitter.com/callmequf" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Twitter"/>
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Twitter"/>
   </a>
 </p>
-### Contact:
+### How to Reach me:
 <p align="center">
   <a href="https://twitter.com/callmequf" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
