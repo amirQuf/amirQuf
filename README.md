@@ -47,6 +47,9 @@
 
 ### How to Reach me:
 <p align="center">
+   <a href="https://t.me/killer_musics" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
   <a href="https://twitter.com/callmequf" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
