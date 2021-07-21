@@ -24,4 +24,7 @@
   <a href="https://www.instagram.com/qufficial/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
+      <a href="https://stackoverflow.com/users/14555023/amir-quf" target="_blank">
+    <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
