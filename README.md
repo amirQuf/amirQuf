@@ -63,7 +63,7 @@
   <a href="https://dribbble.com/Amir_Quf" target="_blank">
     <img src= "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribble"/>
   </a>
-   <a href="https://dribbble.com/Amir_Quf" target="_blank">
+   <a href="https://gitlab.com/amirQuf" target="_blank">
     <img src= "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Dribble"/>
   </a>
 </p>
