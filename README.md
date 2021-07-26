@@ -1,11 +1,10 @@
-# Hi there 🧙<img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there 🧙 <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### 🤵 About Me:
-- 🏦 I'm currently working for nowhere :)
+- 🏦 I'm currently working for __nowhere__ :)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 🌱 I’m currently learning channels and Celery and vuejs
-- 💬 Talk to me about Backend, python, and whatever you like
-- ⚡ Fun fact: just run Wizard
+- 🌱 I’m currently learning __channels__ and __Celery__ and __vuejs__.
+- 💬 Talk to me about __Backend__,__python__, and whatever you like.
+- ⚡ Fun fact: just run Wizard.
 ### Skills:
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Twitter"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Twitter"/>
