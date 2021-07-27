@@ -6,18 +6,18 @@
 - 💬 Talk to me about __Backend__,__python__, and whatever you like.
 - ⚡ Fun fact: just run Wizard.
 
-### Skills:
+### 🎯Skills:
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Twitter"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Twitter"/><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Twitter"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Twitter"/> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Twitter"/></p>
 
-### Activity:
+### 🗓Activity:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amirQuf&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### :octocat: GitHub status:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirQuf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
 
-### How to Reach me:
+### ✨How to Reach me:
 <p align="center">
    <a href="https://t.me/killer_musics" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
