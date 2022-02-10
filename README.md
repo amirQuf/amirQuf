@@ -13,7 +13,8 @@ my name is __Amir Ghasemian__ you can call me **Quf**.🧙
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="Twitter"/>
 </p>
 
-## 🗓 Activity:
+
+## 🗓 Activities:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amirQuf&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### :octocat: GitHub status:
