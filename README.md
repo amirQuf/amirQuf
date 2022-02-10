@@ -3,9 +3,9 @@ my name is __Amir Ghasemian__ you can call me **Quf**.🧙
 ## 🤵 About Me:
 - 🏦 I'm currently working for __nowhere__ :)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning __channels__ and __Celery__ .
+- 🌱 I’m currently learning __channels__ and __Fast API__ .
 - 💬 Talk to me about __Backend__,__python__, and whatever you like.
-- ⚡ Fun fact: just run Wizard.
+- ⚡ Fun fact:run Wizard.
 
 ## 🎯 Skills:
 <p align="center">
