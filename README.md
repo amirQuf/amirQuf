@@ -1,4 +1,4 @@
-<img = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gq.com%2Fstory%2Fwizard-beard-power-ranking&psig=AOvVaw1eWVqyOn0dTQLRx-BJfeqL&ust=1644572663458000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiIj-zs9PUCFQAAAAAdAAAAABAO" alt = "wizard" />
+<img = "https://github.com/amirQuf/amirQuf/blob/main/assets/tumblr_m6du3cd1cF1r42lvzo1_250.gif" alt = "dabi" />
 
 # Hi there <img  src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 my name is __Amir Ghasemian__ you can call me **Quf**.🧙
