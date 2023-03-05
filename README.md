@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/callmequf" target="blank"><img src="https://img.shields.io/twitter/follow/callmequf?logo=twitter&style=for-the-badge" alt="callmequf" /></a> </p>
 
-- 🌱 I’m currently learning **GOlang**
+- 🌱 I’m currently learning **Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirQuf?tab=repositories](https://github.com/amirQuf?tab=repositories)
 
