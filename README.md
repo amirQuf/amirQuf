@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm AmirQuf(Ghasemian)</h1>
-<h3 align="center">A passionate backend developer from Iran</h3>
+
+<h1 align="center">Hi 👋, I'm Amir D. Ghasemian</h1>
+<h3 align="center">A passionate backend developer that live beyond his dreams.</h3>
+<![Uploading image.png…](strawhat)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirquf&label=Profile%20views&color=0e75b6&style=flat" alt="amirquf" /> </p>
 
 
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Design Patterns & Flask*
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirQuf?tab=repositories](https://github.com/amirQuf?tab=repositories)
 
 - 💬 Ask me about **Django , Python and Backend**
 
 - 📫 How to reach me **amir.ghasemian.ag@gmail.com**
+
+- fact:One piece is real.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
