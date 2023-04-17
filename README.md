@@ -37,5 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirquf&" alt="amirquf" /></p>
 
 
-## support:
+## Support:
 <a href="https://www.coffeebede.com/callmequf"><img class="img-fluid" style = "width:200px;" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
