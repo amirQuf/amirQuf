@@ -16,7 +16,7 @@
 - 📫 How to reach me **amir.ghasemian.ag@gmail.com**
 
 - 💭 One piece is real.
-<hr>
+
 ### Connect with me:
 <p align="left">
 <a href="https://codepen.io/amirquf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amirquf" height="30" width="40" /></a>
