@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Design Patterns & Flask*
+- 🌱 I’m currently learning **vuejs & Flask*
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirQuf?tab=repositories](https://github.com/amirQuf?tab=repositories)
 
