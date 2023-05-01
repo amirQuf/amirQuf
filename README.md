@@ -36,6 +36,5 @@ Amir.D.Ghasemian(Quf)<br>
 [![](https://visitcount.itsvg.in/api?id=amirQuf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-ئ
-## Support:
-<img class="img-fluid" width=100 src="/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg">
+
+
