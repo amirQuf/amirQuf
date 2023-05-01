@@ -1,5 +1,10 @@
 # 💫 About Me:
-Amir.D.Ghasemian(Quf)<br>seedling I’m currently learning  vuejs & Flask<br><br>man_technologist All of my projects are available at https://github.com/amirQuf?tab=repositories<br><br>speech_balloon Ask me about Django , Python and Backend<br><br>mailbox How to reach me amir.ghasemian.ag@gmail.com<br><br>thought_balloon One piece is real.<br>
+Amir.D.Ghasemian(Quf)<br>
+- :seedling I’m currently learning  __vuejs & Flask__
+- All of my projects are available at https://github.com/amirQuf?tab=repositories<br>
+- :speech_balloon Ask me about Django , Python and Backend
+- :mailbox How to reach me amir.ghasemian.ag@gmail.com
+- :thought_balloon One piece is real.
 
 
 ## 🌐 Socials:
