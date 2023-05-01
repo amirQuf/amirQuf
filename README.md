@@ -1,10 +1,6 @@
 # 💫 About Me:
-Amir.D.Ghasemian(Quf)<br>
-- :seedling I’m currently learning  __vuejs & Flask__
-- All of my projects are available at https://github.com/amirQuf?tab=repositories<br>
-- :speech_balloon Ask me about Django , Python and Backend
-- :mailbox How to reach me amir.ghasemian.ag@gmail.com
-- :thought_balloon One piece is real.
+DEAD OR ALIVE
+AMIR.D.GHASEMIAN
 
 
 ## 🌐 Socials:
