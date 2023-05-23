@@ -1,8 +1,17 @@
 <h1 align="center"><b>Hi , I'm Amir Ghasemian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-# 💫 About Me:
 
-## resume:
-https://flowcv.com/resume/iwmn7agsjr
+# 💫 About Me:
+- 🌱 I’m currently Working on
+
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning vueJs and FastApi
+
+- 💬 Ask me about **Backend **
+
+- 📄 Know about my experiences <a href="https://flowcv.com/resume/iwmn7agsjr" target="blank">Resume</a>
+<br/>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmequf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirquf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amir.ghasemian.ag) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ghbandaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amir_quf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmequf) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amirquf) 
 
