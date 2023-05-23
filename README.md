@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Amir Ghasemian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+[![](https://visitcount.itsvg.in/api?id=amirQuf&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 - 🌱 I’m currently Working on web apps.
 - 🤝 I’m available for freelancing.
@@ -18,15 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=amirQuf&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirQuf&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirQuf&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amirQuf&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-[![](https://visitcount.itsvg.in/api?id=amirQuf&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## Support:
