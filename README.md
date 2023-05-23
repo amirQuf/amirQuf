@@ -1,14 +1,10 @@
 <h1 align="center"><b>Hi , I'm Amir Ghasemian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
-- 🌱 I’m currently Working on
-
+- 🌱 I’m currently Working on web apps.
 - 🤝 I’m available for freelancing.
-
 - 🌱 I’m currently learning vueJs and FastApi
-
-- 💬 Ask me about **Backend **
-
+- 💬 Ask me about **Backend**
 - 📄 Know about my experiences <a href="https://flowcv.com/resume/iwmn7agsjr" target="blank">Resume</a>
 <br/>
 
