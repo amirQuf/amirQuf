@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning vueJs and FastApi
 - 💬 Ask me about **Backend**
 - 📄 Know about my experiences <a href="https://flowcv.com/resume/iwmn7agsjr" target="blank">Resume</a>
+- one piece is real.
 <br/>
 
 ## 🌐 Socials:
