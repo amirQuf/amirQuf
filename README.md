@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Amir Ghasemian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-exhausted Backend developer that start to learn frontend a bit. 
+exhausted and confused Backend developer that start to learn frontend a bit. 
 
 [![](https://visitcount.itsvg.in/api?id=amirQuf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-- 🌱 I’m currently Working on web apps.
+- 🌱 I’m currently Working on web apps(car_api,password genrator,random fact).
 - 🤝 I’m available for freelancing.
 - 🌱 I’m currently learning vueJs and react and FastApi
 - 💬 Ask me about **Backend**
