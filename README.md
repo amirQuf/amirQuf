@@ -6,7 +6,7 @@ exhausted and confused Backend developer that start to learn frontend a bit.
 # 💫 About Me:
 - 🌱 I’m currently Working on web apps(car_api,password genrator,random fact).
 - 🤝 I’m available for freelancing.
-- 🌱 I’m currently learning vueJs and react and FastApi
+- 🌱 I’m currently learning vueJs  and FastApi
 - 💬 Ask me about **Backend**
 - 📄 Know about my experiences <a href="https://flowcv.com/resume/iwmn7agsjr" target="blank">Resume</a>
 - one piece is real.
