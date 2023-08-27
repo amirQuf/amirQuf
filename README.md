@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Amir Ghasemian, a Backend passionate about [Your Interests/Expertise]. Welcome to my GitHub page!
+I'm Amir Ghasemian, a Backend passionate about Django. Welcome to my GitHub page!
 
 ## About Me
 
-- 🔭 I'm currently working on [Brief Description of Your Current Project].
+- 🔭 I'm currently working on nothing:).
 - 🌱 I'm constantly learning and exploring new technologies in Backend.
 - 💬 Ask me about Backend.
 - 📫 You can reach me at amir.ghasemian.ag@gmail.com.
