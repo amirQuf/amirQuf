@@ -7,8 +7,9 @@ I'm Amir Ghasemian, a Backend passionate about [Your Interests/Expertise]. Welco
 - 🔭 I'm currently working on [Brief Description of Your Current Project].
 - 🌱 I'm constantly learning and exploring new technologies in Backend.
 - 💬 Ask me about Backend.
-- 📫 You can reach me at [amir.ghasemian.ag@gmail.com].
+- 📫 You can reach me at amir.ghasemian.ag@gmail.com.
 - 😄 Pronouns:  He/Him
+## Resume
 
 ## My Projects
 
@@ -22,9 +23,9 @@ Here are some of the projects I'm proud of:
 
 ## Get in Touch
 
-- 📧 Email: [amir.ghasemian.ag@gmail.com]
-- 🌐 LinkedIn: [https://linkedin.com/in/amirQuf](Link to LinkedIn)
-- 🐦 Twitter: [https://twitter.com/callmequf](Link to Twitter)
+- 📧 Email: amir.ghasemian.ag@gmail.com
+- 🌐 LinkedIn: [LinkedIn](https://linkedin.com/in/amirQuf)
+- 🐦 Twitter: [Twitter](https://twitter.com/callmequf)
 
 
 
