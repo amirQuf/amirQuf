@@ -1,24 +1,14 @@
 # Hi there! 👋
-
-I'm Amir Ghasemian, a Backend passionate about Django. Welcome to my GitHub page!
-
 ## About Me
-
-- 🔭 I'm currently working on nothing:).
-- 🌱 I'm constantly learning and exploring new technologies in Backend.
-- 💬 Ask me about Backend.
+I'm Amir Ghasemian, a  passionate  Backend Developer. Welcome to my GitHub page!
+- 🔭 I'm currently working on a FastAPI Project.
+- 🌱 I'm constantly learning about Golang.
+- 💬 Ask me about anything you like.
 - 📫 You can reach me at amir.ghasemian.ag@gmail.com.
 - 😄 Pronouns:  He/Him
-## Resume:[CV](https://flowcv.com/resume/iwmn7agsjr)
-
-Here are some of the projects I'm proud of:
-
-1. **[VideoUploader]([VideoUploader](https://github.com/amirQuf/ConvertVideo))
-
-2. **[BlogAPI]([BlogAPI](https://github.com/amirQuf/BlogAPI))
-
-3. **SimplePasswordGenrator]([SimplePasswordGenrator](https://github.com/amirQuf/SimplePasswordGenrator))
-
+-  Resume:[link](https://flowcv.com/resume/iwmn7agsjr)
+- one piece is real
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/callmequf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmequf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirQuf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@amir.ghasemian.ag) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ghbandaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amir_Quf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmequf) 
 
