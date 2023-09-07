@@ -9,9 +9,7 @@ I'm Amir Ghasemian, a Backend passionate about Django. Welcome to my GitHub page
 - 💬 Ask me about Backend.
 - 📫 You can reach me at amir.ghasemian.ag@gmail.com.
 - 😄 Pronouns:  He/Him
-## Resume
-- https://flowcv.com/resume/iwmn7agsjr
-## My Projects
+## Resume:[CV](https://flowcv.com/resume/iwmn7agsjr)
 
 Here are some of the projects I'm proud of:
 
