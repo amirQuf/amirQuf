@@ -15,11 +15,11 @@ I'm Amir Ghasemian, a Backend passionate about Django. Welcome to my GitHub page
 
 Here are some of the projects I'm proud of:
 
-1. **[Project Name](Link to Project Repository):** A short description of the project and its significance.
+1. **[VideoUploader]([VideoUploader](https://github.com/amirQuf/ConvertVideo))
 
-2. **[Project Name](Link to Project Repository):** A short description of the project and its significance.
+2. **[BlogAPI]([BlogAPI](https://github.com/amirQuf/BlogAPI))
 
-3. **[Project Name](Link to Project Repository):** A short description of the project and its significance.
+3. **SimplePasswordGenrator]([SimplePasswordGenrator](https://github.com/amirQuf/SimplePasswordGenrator))
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/callmequf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmequf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirQuf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@amir.ghasemian.ag) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ghbandaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amir_Quf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmequf) 
