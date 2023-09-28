@@ -1,5 +1,4 @@
 # Hi there! 👋
-## About Me
 I'm Amir Ghasemian, a  passionate  Backend Developer. Welcome to my GitHub page!
 - 🔭 I'm currently working on a FastAPI Project.
 - 🌱 I'm constantly learning about Golang.
